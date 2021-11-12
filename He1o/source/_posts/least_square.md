@@ -1,11 +1,11 @@
 ---
-title: least-sqaure
-date: 2021-09-18 10:53:13
+title: least_sqaure
+date: 2021-09-18
 mathjax: true
-tags:
-- least sqaure
-- he1o
+category: Machine learning
 ---
+最小二乘法
+<!--more-->
 # 最小二乘法
 
 最小二乘法又称为最小平方法，是一种数学优化建模方法。它通过最小化误差的平方和寻找数据的最佳函数匹配。最小二乘法是对线性方程组，即方程个数比未知数更多的方程组，以回归分析求得近似解的标准方法。在这个解决方案中，最小二乘法演算为每一方程的结果中，将残差平方和的总和最小化。
@@ -246,10 +246,17 @@ plt.show()
 ```
 ![最小二乘法拟合图](https://raw.githubusercontent.com/He1o/Cyrus_NoteBook/main/Machine%20Learning/1.least_square/source/Figure_1.png)
 
+## 参考
 [1. 最小二乘法的本质是什么？](https://www.zhihu.com/question/37031188)
+
 [2. 最小二乘法小结-刘建平Pinard](https://www.cnblogs.com/pinard/p/5976811.html)
+
 [3. 最小二乘法-维基百科](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95)
+
 [4. 最小二乘法详细推导 - 知乎](https://zhuanlan.zhihu.com/p/84133777)
+
 [5. 最小二乘法 - 知乎](https://zhuanlan.zhihu.com/p/89373759)
+
 [6. 矩阵形式下的最小二乘法推导 - 知乎](https://zhuanlan.zhihu.com/p/87582571)
+
 [7. 矩阵求导术（上）- 知乎](https://zhuanlan.zhihu.com/p/24709748)
