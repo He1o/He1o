@@ -1,11 +1,12 @@
 ---
-title: perceptron
+title: Perceptron
 date: 2021-09-18
 mathjax: true
 category: Machine learning
 ---
 感知机
 <!--more-->
+
 # 感知机
 
 感知机（英语：Perceptron）是弗兰克·罗森布拉特（Frank Rosenblatt）在1957年就职于康奈尔航空实验室（Cornell Aeronautical Laboratory）时所发明的一种人工神经网络。在人工神经网络领域中，感知机也被指为单层的人工神经网络，以区别于较复杂的多层感知机（Multilayer Perceptron）。
