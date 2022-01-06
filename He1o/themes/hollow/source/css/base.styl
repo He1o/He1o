@@ -4,16 +4,25 @@
 body,
 html
   width 100%
-  font-size 18px
+  font-size 17px
   color gray-dark
   @extend .serif
 
+ol > li
+  padding-top 5px
+  padding-bottom 5px
+
 p
+  text-align justify
   letter-spacing .1px
   line-height 1.8
   margin 20px 0
   a
     text-decoration underline
+
+div > p
+  text-indent 2em
+
 
 h1, h2, h3
   @extend .serif
@@ -114,7 +123,6 @@ nav
 .post-preview
   position relative
   padding 25px 0 35px
-  min-height 14em
   overflow hidden
   clear both
   @extend .animation

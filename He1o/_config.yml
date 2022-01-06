@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: He1o
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: He1o
 language: en
 timezone: ''
 
@@ -97,11 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: next
-# theme: He1o
+# theme: landscape
 theme: hollow
-plugins:
-  - hexo-renderer-mathjax
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
@@ -110,6 +108,4 @@ deploy:
   branch: gh-pages
 
 mathjax:
-  enable: true
-  per_page: true
-
+    enable: true
