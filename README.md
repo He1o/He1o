@@ -8,4 +8,4 @@
 
 
 ⭐️ Welcome to [My Blog](https://github.com/darshan-jain)
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/He1o/He1o/main/source/img/bars.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/He1o/He1o/main/themes/hollow/images/bars.gif" />
