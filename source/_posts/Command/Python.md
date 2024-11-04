@@ -4,7 +4,7 @@ date: 2022-01-09
 category: Command
 ---
 <!--more-->
-# Linux
+# Python
 
 ## 
 
