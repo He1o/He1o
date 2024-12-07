@@ -1,5 +1,5 @@
 ---
-title: Linux
+title: Mac
 date: 2022-07-13
 category: Command
 ---

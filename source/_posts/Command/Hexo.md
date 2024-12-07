@@ -18,7 +18,7 @@ node -v
 
 npm 换源
 ```shell
-npm config set registry https://registry.npm.taobao.org
+npm config set registry https://registry.npmmirror.com/
 ```
 
 检测是否修改成功
@@ -27,7 +27,7 @@ npm config get registry
 ```
 
 ## 2. 安装 Hexo
-安装命令
+安装命令，如果太久没用版本会过低，需要更新 `package-lock.json`
 ```shell
 npm install hexo-cli -g
 ```
@@ -115,3 +115,15 @@ em: /^\*((?:\*\*|[\s\S])+?)\*(?!\*)/,
 mathjax:
     enable: true
 ```
+
+## 使用
+```bash
+hexo clean && hexo generate && hexo server -p 4001
+hexo deploy
+```
+
+## 参考
+> [1. 在HEXO主题中添加数学公式支持 ](https://www.cnblogs.com/zhyantao/p/10424874.html)
+> [2. highlight.js](https://highlightjs.org/#usage)
+> [3. 文档 | Hexo](https://hexo.io/zh-cn/docs/)
+

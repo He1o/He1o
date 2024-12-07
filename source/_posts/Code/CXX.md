@@ -1,5 +1,5 @@
 ---
-title: C
+title: CXX
 date: 2022-11-23
 category: Code
 ---
