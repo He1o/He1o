@@ -4,6 +4,8 @@
 
 # Site
 title: He1o
+avatar: https://raw.githubusercontent.com/He1o/He1o/refs/heads/main/themes/hollow/images/bunishou.svg
+favicon: https://raw.githubusercontent.com/He1o/He1o/refs/heads/main/themes/hollow/images/bunishou.svg
 subtitle: ''
 description: ''
 keywords:
@@ -101,7 +103,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: hollow
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -109,6 +111,3 @@ deploy:
   type: git
   repo: git@github.com:He1o/He1o.github.io.git
   branch: gh-pages
-
-mathjax:
-    enable: true

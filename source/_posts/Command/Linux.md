@@ -237,3 +237,12 @@ time ping -n refclient.ext.here.com -c 1
 >real    0m5.011s
 >user    0m0.000s
 >sys     0m0.000s
+
+
+## git 
+.ssh/config 文件中配置
+
+
+>Host github.com
+>  User git
+>  ProxyCommand nc -v -x 127.0.0.1:7897 %h %p
